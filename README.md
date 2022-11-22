@@ -1,4 +1,4 @@
-#  **INTRODUCING EXO**
+#  **INTRODUCING: EXO**
 ![EXO](https://6.vikiplatform.com/image/42361f1c822b41459c0d9160b46c62e9.jpg)
 ---
 ### One Of the Most Famous Boy Bands in the World
