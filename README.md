@@ -28,7 +28,24 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 
 ![SUHO](https://media.giphy.com/media/jmp57B7XctnWSnyTqH/giphy.gif)
 
-Suho (Born Kim Jun-myeon) was born on May 22, 1991. He is the leader, lead vocalist, and visual of the group. He is currently 32 years old. His MBTI is ENFJ-A, and lives in the Apujeong neighborhood in Seoul, South Korea. 
+Suho (Born Kim Jun-myeon) was born on May 22, 1991. He is the leader, lead vocalist, and visual of the group. He is currently 32 years old. His MBTI is ENFJ-A, and lives in the Apujeong neighborhood in Seoul, South Korea. He studied at Korea National University of Arts, where he majored in acting. He became an SM trainee in 2006 when he was 16, and became the 10th to be announced as an EXO member. On March 30, 2020, Suho released his debut EP, Self-Portrait and its lead single "Let's Love", becoming the fourth EXO member to have debuted as a solo artist. On May 14, 2020, he enlisted in the military. He was discharged on February 13, 2022.
+
+2. Baekhyun
+
+![BAEKHYUN](https://media.giphy.com/media/qKL27AtJ6n8Q0/giphy.gif)
+
+
+4. Chanyeol
+
+![CHANYEOL](https://media.giphy.com/media/OYINjZf9ezxYc/giphy.gif)
+
+5. D.O
+
+![D.O.](https://media.giphy.com/media/MVoPzbDtkFNEV43S0K/giphy.gif)
+7. 
+
+
+
 My Favorite EXO Songs:
 
 *Heaven* - EX'ACT
