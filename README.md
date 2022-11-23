@@ -19,5 +19,8 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 - Kris
 - Luhan
 - Tao
+
 ---
 My Favorite EXO Songs:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/53pJcIJBdlm5rhVhjSnvHn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
