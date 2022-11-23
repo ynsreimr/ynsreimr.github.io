@@ -23,6 +23,7 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 
 ---
 My Favorite EXO Songs:
+
 *Heaven* - EX'ACT
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64wBH2x7lTYxhwUzoS5gvt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 *Ooh La La La* - DON'T MESS UP MY TEMPO
@@ -31,3 +32,13 @@ My Favorite EXO Songs:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kcCB7oh6X4bSoFCvrHLvG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 *My Lady* - XOXO
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WAtCRhWvN7iR8rKyWEE3y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Touch It* - THE WAR
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SKltjAmqarrBgHW5HrcKW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*The Eve* - THE WAR 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ujA6F1cpk3m8lsPE5aKua?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Lucky One* - EX'ACT
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6F07dfBaUEcylJdL3gky7y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Lotto* - LOTTO
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ukWoX4AHV76JdYVdKRPk8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Love Me Right* - LOVE ME RIGHT
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kFevEv3s7Gf6o5xSDR5DL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
