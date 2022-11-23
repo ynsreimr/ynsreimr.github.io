@@ -15,6 +15,7 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 - Kai
 - Sehun
 - Lay
+
 **PAST MEMBERS!**
 - Kris
 - Luhan
@@ -22,5 +23,11 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 
 ---
 My Favorite EXO Songs:
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/53pJcIJBdlm5rhVhjSnvHn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Heaven* - EX'ACT
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64wBH2x7lTYxhwUzoS5gvt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*Ooh La La La* - DON'T MESS UP MY TEMPO
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7wfbHZcNtENuAcbog7c6kQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*24/7* - DON'T MESS UP MY TEMPO
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kcCB7oh6X4bSoFCvrHLvG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*My Lady* - XOXO
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WAtCRhWvN7iR8rKyWEE3y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
