@@ -25,6 +25,7 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 ## Member Profiles!
 
 1. Suho
+
 ![SUHO](https://media.giphy.com/media/jmp57B7XctnWSnyTqH/giphy.gif)
 
 Suho (Born Kim Jun-myeon) was born on May 22, 1991. He is the leader, lead vocalist, and visual of the group. He is currently 32 years old. His MBTI is ENFJ-A, and lives in the Apujeong neighborhood in Seoul, South Korea. 
