@@ -37,7 +37,7 @@ Suho's Hobbies :)
 
 Social Media Accounts!!
 
-- [ Suho's Instagram] (https://www.instagram.com/kimjuncotton/)
+- [Suho's Instagram](https://www.instagram.com/kimjuncotton/)
 
 2. Baekhyun
 
@@ -54,10 +54,10 @@ Baek's Hobbies :)
 
 Social Media Accounts!!
 
-- [Baekhyun's Instagram] (https://www.instagram.com/baekhyunee_exo/)
-- [Baekhyun's Twitter] (https://twitter.com/b_hundred_hyun?lang=en)
-- [Baekhyun's Weibo] (https://m.weibo.cn/u/6033930155?jumpfrom=weibocom)
-- [Baekhyun's Youtube] (https://www.youtube.com/channel/UCUyr5000laFgF79tWJB3rXQ)
+- [Baekhyun's Instagram](https://www.instagram.com/baekhyunee_exo/)
+- [Baekhyun's Twitter](https://twitter.com/b_hundred_hyun?lang=en)
+- [Baekhyun's Weibo](https://m.weibo.cn/u/6033930155?jumpfrom=weibocom)
+- [Baekhyun's Youtube](https://www.youtube.com/channel/UCUyr5000laFgF79tWJB3rXQ)
 4. Chanyeol
 
 ![CHANYEOL](https://media.giphy.com/media/OYINjZf9ezxYc/giphy.gif)
