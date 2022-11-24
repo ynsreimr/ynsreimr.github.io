@@ -28,13 +28,36 @@ EXO is a South Korean-Chinese boy band formed in 2011 by SM Entertainment, and d
 
 ![SUHO](https://media.giphy.com/media/jmp57B7XctnWSnyTqH/giphy.gif)
 
-Suho (Born Kim Jun-myeon) was born on May 22, 1991. He is the leader, lead vocalist, and visual of the group. He is currently 32 years old. His MBTI is ENFJ-A, and lives in the Apujeong neighborhood in Seoul, South Korea. He studied at Korea National University of Arts, where he majored in acting. He became an SM trainee in 2006 when he was 16, and became the 10th to be announced as an EXO member. On March 30, 2020, Suho released his debut EP, Self-Portrait and its lead single "Let's Love", becoming the fourth EXO member to have debuted as a solo artist. On May 14, 2020, he enlisted in the military. He was discharged on February 13, 2022.
+Suho (Born Kim Jun-myeon) was born on May 22, 1991. He is the leader, lead vocalist, and visual of the group. He is currently 31 years old. His MBTI is ENFJ-A, and lives in the Apujeong neighborhood in Seoul, South Korea. He studied at Korea National University of Arts, where he majored in acting. He became an SM trainee in 2006 when he was 16, and became the 10th to be announced as an EXO member. On March 30, 2020, Suho released his debut EP, Self-Portrait and its lead single "Let's Love", becoming the fourth EXO member to have debuted as a solo artist. On May 14, 2020, he enlisted in the military. He was discharged on February 13, 2022.
+
+Suho's Hobbies :)
+- Cycling
+- Acting
+- Playing golf
+
+Social Media Accounts!!
+
+- [Instagram] (https://www.instagram.com/kimjuncotton/)
 
 2. Baekhyun
 
 ![BAEKHYUN](https://media.giphy.com/media/qKL27AtJ6n8Q0/giphy.gif)
 
+Baekhyun (Born Byun Baek-hyun) was born on May 6, 1992. He is the main vocalist of the group. He is currently 30 years old. His MBTI is ISFP, and his hometown is in  Bucheon, Gyeonggi Province, South Korea. He studied at Kyung Hee Cyber University, at the Culture and Arts Business Department. He entered SM Entertainment in 2011. Baekhyun was revealed to be EXO's 9th member. In April 2015, Baekhyun released his first solo song since debut titled "Beautiful" as the soundtrack for EXO's web-drama EXO Next Door. He later joined SuperM, which consists of members from other boy groups like SHINee and NCT. He enlisted on May 6, 2021. He is also a part of EXO's subunit, EXO-CBX. 
 
+Baek's Hobbies :)
+- Aikido
+- Piano
+- Listening to music
+- Watching movies
+- Singing
+
+Social Media Accounts!!
+
+- [Instagram] (https://www.instagram.com/baekhyunee_exo/)
+- [Twitter] (https://twitter.com/b_hundred_hyun?lang=en)
+- [Weibo] (https://m.weibo.cn/u/6033930155?jumpfrom=weibocom)
+- [Youtube] (https://www.youtube.com/channel/UCUyr5000laFgF79tWJB3rXQ)
 4. Chanyeol
 
 ![CHANYEOL](https://media.giphy.com/media/OYINjZf9ezxYc/giphy.gif)
@@ -66,3 +89,5 @@ My Favorite EXO Songs:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ukWoX4AHV76JdYVdKRPk8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 *Love Me Right* - LOVE ME RIGHT
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kFevEv3s7Gf6o5xSDR5DL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+*PLAYBOY* - EXODUS
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/06KYwRJKN3IKOKzaWuP3ea?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
